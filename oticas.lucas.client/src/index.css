@@ -1,4 +1,0 @@
-﻿:root{--accent:#0066cc;--accent-dark:#004a99;--muted:#6b7280;--bg:#f7f9fb;--card:#ffffff}
-*{box-sizing:border-box}
-html,body,#root{height:100%}
-body{font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial;line-height:1.4;margin:0;background:var(--bg);color:#0f172a}

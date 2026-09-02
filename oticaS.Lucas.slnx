@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="oticas.lucas.client/oticas.lucas.client.esproj">
-    <Build />
-    <Deploy />
-  </Project>
-  <Project Path="oticaS.Lucas.Server/oticaS.Lucas.Server.csproj" />
-</Solution>
