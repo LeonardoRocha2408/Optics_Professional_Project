@@ -1,0 +1,6 @@
+@oticaS.Lucas.Server_HostAddress = http://localhost:5105
+
+GET {{oticaS.Lucas.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
